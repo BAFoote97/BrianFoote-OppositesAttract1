@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class ObstacleScript : MonoBehaviour {
 
-    public GameObject whatever;
+	public GameObject playerObject;
+
+    public GameObject pointObject;
     public Rigidbody myRigidBody;
 
     public float moveMin;
     public float moveMax;
+
+	public float rotSpeed;
 
     public float moveSpeed;
     public float delayToPush;
@@ -18,8 +22,11 @@ public class ObstacleScript : MonoBehaviour {
     public bool lightPickup;
     public bool darkPickup;
 
+	public float pickupScore;
+
 	// Use this for initialization
 	void Start () {
+		playerObject = GameObject.FindGameObjectWithTag ("Player");
         //moveSpeed = (Random.Range(moveMin, moveMax));
         //myRigidBody.AddForce(whatever.transform.forward * moveSpeed);
         StartCoroutine(PushObject());
@@ -35,6 +42,11 @@ public class ObstacleScript : MonoBehaviour {
         //}
         moveSpeed = (Random.Range(moveMin, moveMax));
 
+		if (moveIndependent == true) 
+		{
+			pointObject.transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(playerObject.transform.position - transform.position), rotSpeed * Time.deltaTime);
+		}
+
     }
 
     private void OnCollisionEnter(Collision other)
@@ -48,7 +60,7 @@ public class ObstacleScript : MonoBehaviour {
 
     IEnumerator PushObject()
     {
-        myRigidBody.AddForce(whatever.transform.forward * moveSpeed);
+        myRigidBody.AddForce(pointObject.transform.forward * moveSpeed);
         yield return new WaitForSeconds(delayToPush);
         StartCoroutine(PushObject());
     }

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 
@@ -24,6 +25,9 @@ public class PlayerController : MonoBehaviour {
     public Material darkMat;
     public Renderer rend;
 
+	public float playerScore;
+	public Text scoreText;
+
 	// Use this for initialization
 	void Start () {
         rend = GetComponent<Renderer>();
@@ -32,6 +36,8 @@ public class PlayerController : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
+		scoreText.text = playerScore.ToString();
+
         rend.material = currentMat;
 
         Ray cameraRay = mainCamera.ScreenPointToRay(Input.mousePosition);
@@ -125,5 +131,22 @@ public class PlayerController : MonoBehaviour {
         {
             Debug.Log("Player died");
         }
+
+		if (other.gameObject.tag == "LightObstacle" && lightMode == true) 
+		{
+			if (other.gameObject.GetComponent<ObstacleScript> ().lightPickup == true) 
+			{
+				playerScore += other.gameObject.GetComponent<ObstacleScript> ().pickupScore;
+				Destroy (other.gameObject);
+			}
+		}
+		if (other.gameObject.tag == "DarkObstacle" && darkMode == true) 
+		{
+			if (other.gameObject.GetComponent<ObstacleScript> ().darkPickup == true) 
+			{
+				playerScore += other.gameObject.GetComponent<ObstacleScript> ().pickupScore;
+				Destroy (other.gameObject);
+			}
+		}
     }
 }

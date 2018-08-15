@@ -155,10 +155,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1c78abbda0caf04c9019b77317dabd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  whatever: {fileID: 1960204270999638}
+  playerObject: {fileID: 0}
+  pointObject: {fileID: 1960204270999638}
   myRigidBody: {fileID: 54587948915902222}
   moveMin: 20
   moveMax: 100
+  rotSpeed: 0
   moveSpeed: 75
   delayToPush: 0.05
   moveIndependent: 0

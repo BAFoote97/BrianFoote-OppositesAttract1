@@ -27,7 +27,7 @@ public class EmitterScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        projectileNumber = (Random.Range(0, 18));
+        projectileNumber = (Random.Range(0, 22));
 
         projectile = possibleProjectile[projectileNumber];
 

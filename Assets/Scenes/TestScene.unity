@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -159,6 +159,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -240,6 +244,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -308,6 +316,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -376,6 +388,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -497,6 +513,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -578,6 +598,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -633,6 +657,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -801,6 +829,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -954,6 +986,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1107,6 +1143,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1260,6 +1300,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1328,6 +1372,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1396,6 +1444,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1580,6 +1632,15 @@ Prefab:
       propertyPath: darkMat
       value: 
       objectReference: {fileID: 2100000, guid: ef4f29318f88c10438ba9f0430a601a7, type: 2}
+    - target: {fileID: 1549993734533518, guid: 9ff4a43fb7fe72a4faa54bad1c2cad12, type: 2}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 114424433661059340, guid: 9ff4a43fb7fe72a4faa54bad1c2cad12,
+        type: 2}
+      propertyPath: scoreText
+      value: 
+      objectReference: {fileID: 667046822}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ff4a43fb7fe72a4faa54bad1c2cad12, type: 2}
   m_IsPrefabAsset: 0
@@ -1634,6 +1695,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1755,6 +1820,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1823,6 +1892,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -1917,6 +1990,81 @@ Transform:
   m_Father: {fileID: 754324494}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 90.00001, z: 0}
+--- !u!1 &667046820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 667046821}
+  - component: {fileID: 667046823}
+  - component: {fileID: 667046822}
+  m_Layer: 5
+  m_Name: ScoreText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &667046821
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 667046820}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2.3878, y: 2.3878, z: 2.3878}
+  m_Children: []
+  m_Father: {fileID: 1189356235}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -22, y: 21.9}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &667046822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 667046820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: New Text
+--- !u!222 &667046823
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 667046820}
+  m_CullTransparentMesh: 0
 --- !u!1 &754324493
 GameObject:
   m_ObjectHideFlags: 0
@@ -2009,6 +2157,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2077,6 +2229,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2132,6 +2288,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2213,6 +2373,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2281,6 +2445,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2349,6 +2517,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2417,6 +2589,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2485,6 +2661,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2553,6 +2733,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2621,6 +2805,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2716,6 +2904,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2797,6 +2989,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2865,6 +3061,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2933,6 +3133,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -2988,6 +3192,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3069,6 +3277,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3137,6 +3349,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3205,6 +3421,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3214,6 +3434,162 @@ MonoBehaviour:
   delayMin: 1
   delayMax: 30
   startBool: 0
+--- !u!1 &1189356231
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1189356235}
+  - component: {fileID: 1189356234}
+  - component: {fileID: 1189356233}
+  - component: {fileID: 1189356232}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1189356232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1189356231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1189356233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1189356231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!223 &1189356234
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1189356231}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1189356235
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1189356231}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 667046821}
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!1 &1236537290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1236537293}
+  - component: {fileID: 1236537292}
+  - component: {fileID: 1236537291}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1236537291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1236537290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &1236537292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1236537290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &1236537293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1236537290}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1296659173
 GameObject:
   m_ObjectHideFlags: 0
@@ -3273,6 +3649,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3341,6 +3721,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3409,6 +3793,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3464,6 +3852,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3545,6 +3937,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3600,6 +3996,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3681,6 +4081,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3789,6 +4193,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3857,6 +4265,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3912,6 +4324,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -3993,6 +4409,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -4088,6 +4508,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -4156,6 +4580,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
@@ -4237,6 +4665,10 @@ MonoBehaviour:
   - {fileID: 1890611290936738, guid: ca182492975a60e4e9702339028ee042, type: 2}
   - {fileID: 1962226548986644, guid: b8c76eef2dcdf8c40a72552a97b64c05, type: 2}
   - {fileID: 1259468301020350, guid: fc92b388af5d4e04fafc66d58dcc9cc7, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1986361018626756, guid: b571eb2268803cd4aa1492bca91f4b99, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
+  - {fileID: 1554119245007950, guid: f0cc496de8213fd42ad93140e546eff2, type: 2}
   projectile: {fileID: 1456723446102344, guid: 9372e37bca2c56641af5ae5c139251fb, type: 2}
   projectileNumber: 0
   projectileLifetime: 30
