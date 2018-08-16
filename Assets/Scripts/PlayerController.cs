@@ -27,10 +27,12 @@ public class PlayerController : MonoBehaviour {
 
 	public float playerScore;
 	public Text scoreText;
+	public Text gameOverText;
 
 	// Use this for initialization
 	void Start () {
         rend = GetComponent<Renderer>();
+		gameOverText.enabled = false;
 
     }
 
@@ -126,10 +128,14 @@ public class PlayerController : MonoBehaviour {
         if (other.gameObject.tag == "DarkObstacle" && lightMode == true)
         {
             Debug.Log("Player died");
+			gameOverText.enabled = true;
+			Destroy (gameObject);
         }
         if (other.gameObject.tag == "LightObstacle" && darkMode == true)
         {
             Debug.Log("Player died");
+			gameOverText.enabled = true;
+			Destroy (gameObject);
         }
 
 		if (other.gameObject.tag == "LightObstacle" && lightMode == true) 
